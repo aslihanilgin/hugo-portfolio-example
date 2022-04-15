@@ -1,6 +1,6 @@
 ---
-title: "Hello World 2.0"
-date: "2022-04-15T12:00:00Z"
+title: "Hello World - The OG"
+date: "2022-04-15T09:00:00Z"
 tags: ["hugo", "markdown", "static", "azure", "blog"]
 featured_image: ""
 description: "This blog post is part of the introduction to Hugo and Azure Static Web Apps workshop."
